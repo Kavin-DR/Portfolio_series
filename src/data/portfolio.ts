@@ -845,7 +845,7 @@ export const viewerProfiles: {
 }[] = [
   {
     id: 'sushmita',
-    name: 'sushmita',
+    name: 'Kavin D R',
     blurb: 'Explore my complete journey',
     color: '#e5132b',
     order: ['about', 'journey', 'originals', 'picks', 'skills', 'moments', 'story'],
