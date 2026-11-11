@@ -258,6 +258,11 @@ export const certifications: Certification[] = [
     link: 'https://drive.google.com/file/d/12aZRcJ5cwdSn79GENjPofIo-vhNtUtPB/view',
   },
   {
+    issuer: 'NPTEL',
+    name: 'Cloud Computing',
+    link: 'https://drive.google.com/file/d/11-Vp0Opsh4V7xbQzB1FzDWhwGD47wwgx/view?usp=drivesdk',
+  },
+  {
     issuer: 'Infosys Springboard',
     name: 'Machine Learning Foundation Certification',
     link: 'https://drive.google.com/file/d/1L25njarubxtATPWMwphkVgaKE32HakVO/view',
