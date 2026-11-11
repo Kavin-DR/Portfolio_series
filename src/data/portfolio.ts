@@ -478,6 +478,7 @@ export const skillEvidence: Record<string, string[]> = {
   ],
 
   Algorithms: [
+    'NPTEL- Fundamentals of Generative AI',
     'LeetCode',
     'CodeChef',
     'Competitive Programming',
