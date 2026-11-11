@@ -227,6 +227,11 @@ export const achievements: Achievement[] = [
 export type Certification = { issuer: string; name: string; link: string };
 
 export const certifications: Certification[] = [
+   {
+    issuer: 'NPTEL',
+    name: 'Fundamentals of Generative AI',
+    link: 'https://drive.google.com/file/d/11-Vp0Opsh4V7xbQzB1FzDWhwGD47wwgx/view?usp=drivesdk',
+  },
   {
     issuer: 'Infosys Springboard',
     name: 'Generative Models for Developers',
@@ -256,11 +261,6 @@ export const certifications: Certification[] = [
     issuer: 'Cisco Networking Academy',
     name: 'Linux Essentials',
     link: 'https://drive.google.com/file/d/12aZRcJ5cwdSn79GENjPofIo-vhNtUtPB/view',
-  },
-  {
-    issuer: 'NPTEL',
-    name: 'Cloud Computing',
-    link: 'https://drive.google.com/file/d/11-Vp0Opsh4V7xbQzB1FzDWhwGD47wwgx/view?usp=drivesdk',
   },
   {
     issuer: 'Infosys Springboard',
